@@ -1,6 +1,6 @@
 # SeraphDevelopment (Seraph)
 
-Welcome to my GitHub profile! I'm **Seraph** (SeraphDevelopment), a developer passionate about creating **multitools** and various other projects using programming languages like **Python**, **Batch**, and **C#**.
+Welcome to my GitHub profile! I'm **Seraph** (SeraphDevelopment), a developer passionate about creating **multitools** and various other projects using programming languages like **Python**, **Batch**, and **C#**, Specifically for windows!
 
 ## 🚀 About Me
 
